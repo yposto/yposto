@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Yair Posto
 
-I'm a QA Engineer with over 4 years of experience in manual testing of desktop, web, and client-server applications. I'm passionate about product quality, attention to detail, and clear communication between QA and R&D.
+I'm a QA Engineer with over 5 years of experience in manual testing of desktop, web, and client-server applications. I'm passionate about product quality, attention to detail, and clear communication between QA and R&D.
 
 ### 🧪 What I Do
 - Design and execute test plans (STD, sanity, regression)
